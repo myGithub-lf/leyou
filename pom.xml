@@ -10,6 +10,7 @@
     <modules>
         <module>leyou-registry</module>
     </modules>
+
     <packaging>pom</packaging>
     <name>leyou</name>
     <parent>
