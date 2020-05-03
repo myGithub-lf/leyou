@@ -9,13 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.leyou.service</groupId>
-    <artifactId>leyou-item</artifactId>
+    <groupId>com.leyou.common</groupId>
+    <artifactId>leyou-common</artifactId>
 
-    <packaging>pom</packaging>
-    <modules>
-        <module>leyou-item-interface</module>
-        <module>leyou-item-service</module>
-    </modules>
 
 </project>
