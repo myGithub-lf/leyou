@@ -9,6 +9,9 @@
     <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>leyou-registry</module>
+        <module>ly-api-gateway</module>
+        <module>leyou-api-gateway</module>
+        <module>leyou-item</module>
     </modules>
 
     <packaging>pom</packaging>
